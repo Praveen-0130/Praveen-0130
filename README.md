@@ -118,6 +118,8 @@ const Praveen = {
   <span style="color:#A177FE;">CONNECT WITH ME</span>
 </h2>
 
+<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 <div align="center">
   
   <a href="https://www.linkedin.com/in/praveen-kumar-vb/" target="_blank">

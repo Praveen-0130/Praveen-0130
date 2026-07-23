@@ -57,7 +57,7 @@ const Praveen = {
   name: "Praveen Kumar VB",
   roles: ["Undergraduate Intern" , Planning to become entrepreneur],
   location: "Bengaluru, Karnataka, India",
-  focus: ["GenAI"],
+  focus: ["GenAI" ,  Prompt Enginnering ],
   quote: "I don't always test my code, but when I do, I do it in production.",
   skills: "Talk is cheap, check my repos instead 💻",
   sayHi: () => "Always down to build something cool — let's connect! 🤝"
